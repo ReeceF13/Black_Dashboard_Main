@@ -1,0 +1,1 @@
+ git clone https://github.com/app-generator/flask-black-dashboard.git .
